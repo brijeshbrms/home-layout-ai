@@ -1,0 +1,390 @@
+Design a 3BHK home layout for a plot of 33' x 60'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the East
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the east (5' x 5')
+- Staircase in the south zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 40' x 40'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the East
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the northeast (5' x 5')
+- Staircase in the southeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 50' x 50'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the East
+- Kitchen in the northwest (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the northeast (5' x 5')
+- Staircase in the west zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 35' x 55'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the East
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the northeast (5' x 5')
+- Staircase in the west zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 45' x 45'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the East
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the northeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 36' x 36'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the West
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the northeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 60' x 40'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the West
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the northeast (5' x 5')
+- Staircase in the northeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 30' x 50'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the South
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the northeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 30' x 40'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the East
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the northeast (5' x 5')
+- Staircase in the south zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 36' x 36'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the South
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the northeast (5' x 5')
+- Staircase in the south zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 50' x 50'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the East
+- Kitchen in the northwest (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the east (5' x 5')
+- Staircase in the south zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 30' x 50'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the East
+- Kitchen in the northwest (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the northeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 36' x 36'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the West
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the east (5' x 5')
+- Staircase in the northeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 30' x 50'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the West
+- Kitchen in the northwest (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the northeast (5' x 5')
+- Staircase in the southeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 50' x 50'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the North
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the northeast (5' x 5')
+- Staircase in the southeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 60' x 40'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the West
+- Kitchen in the northwest (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the northeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 33' x 60'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the East
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the northeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 60' x 40'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the North
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the south zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 35' x 55'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the West
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the east (5' x 5')
+- Staircase in the northeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 40' x 40'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the South
+- Kitchen in the northwest (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the southeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 60' x 40'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the North
+- Kitchen in the northwest (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the south zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 33' x 60'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the South
+- Kitchen in the northwest (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the southeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 30' x 40'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the West
+- Kitchen in the northwest (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the west zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 60' x 40'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the East
+- Kitchen in the northwest (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the northeast (5' x 5')
+- Staircase in the southeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 35' x 55'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the East
+- Kitchen in the northwest (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the east (5' x 5')
+- Staircase in the northeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 33' x 60'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the East
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the west zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 60' x 40'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the South
+- Kitchen in the northwest (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the west zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 36' x 36'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the West
+- Kitchen in the northwest (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the south zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 33' x 60'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the North
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the west zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
+Design a 3BHK home layout for a plot of 50' x 50'.
+- Master Bedroom in the southwest (13' x 15')
+- Children’s Bedroom in the northwest (12' x 12')
+- Guest Bedroom in the southeast (12' x 13')
+- Living Room in the northeast (18' x 15'), with main entrance from the North
+- Kitchen in the southeast (10' x 10') with adjacent dining area (10' x 12')
+- Common Bathroom in the north (6' x 8')
+- Attached Toilet with Master Bedroom (6' x 8')
+- Pooja Room in the north (5' x 5')
+- Staircase in the southeast zone
+- Maintain 3’ to 5’ setbacks on all sides
+Use clear zoning between public and private spaces and optimize for ventilation, natural light, and minimal corridor wastage.
+
