@@ -431,5 +431,505 @@
       }
     ],
     "layout_version": "v2.0"
+  },
+  {
+    "prompt": " Design a compact 1BHK home layout for a plot of 28'x 28'. Include:\n   - Living Room: 10' x 10'2\"\n   - Kitchen: 7' x 8'\n   - Bedroom: 9' x 8'\n   - Toilet: 4' x 8'\n   - O.T.S Washing area: 3' x 3'\n ",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 28.0,
+        "height": 28.0
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 15,
+        "height": 19
+      },
+      {
+        "name": "Kitchen",
+        "x": 16,
+        "y": 0,
+        "width": 7,
+        "height": 8
+      },
+      {
+        "name": "Bedroom",
+        "x": 0,
+        "y": 20,
+        "width": 9,
+        "height": 8
+      },
+      {
+        "name": "Toilet",
+        "x": 10,
+        "y": 20,
+        "width": 4,
+        "height": 8
+      },
+      {
+        "name": "OTS Washing area",
+        "x": 15,
+        "y": 20,
+        "width": 3,
+        "height": 3
+      }
+    ],
+    "layout_version": "v2.0"
+  },
+  {
+    "prompt": " Design a compact 1BHK home layout for a plot of 28'x 30'. Include:\n   - Living Room: 10' x 10'\n   - Kitchen: 7' x 8'\n   - Bedroom: 9' x 8'\n   - Toilet: 4' x 8'\n   - O.T.S Washing area: 3' x 3'\n ",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 28.0,
+        "height": 30.0
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 7,
+        "height": 9
+      },
+      {
+        "name": "Kitchen",
+        "x": 8,
+        "y": 0,
+        "width": 4.5,
+        "height": 8
+      },
+      {
+        "name": "Bedroom",
+        "x": 13.5,
+        "y": 0,
+        "width": 7,
+        "height": 9
+      },
+      {
+        "name": "Toilet",
+        "x": 21.5,
+        "y": 0,
+        "width": 4.5,
+        "height": 8
+      },
+      {
+        "name": "O.T.S Washing area",
+        "x": 0,
+        "y": 10,
+        "width": 7,
+        "height": 3
+      }
+    ],
+    "layout_version": "v2.0"
+  },
+  {
+    "prompt": " Design a compact 1BHK home layout for a plot of 28'x 30'. Include:\n   - Living Room: 10' x 10'\n   - Kitchen: 7' x 8'\n   - Bedroom: 9' x 8'\n   - Toilet: 4' x 8'\n   - O.T.S Washing area: 3' x 3'\n ",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 28.0,
+        "height": 30.0
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 15,
+        "height": 20
+      },
+      {
+        "name": "Kitchen",
+        "x": 16,
+        "y": 0,
+        "width": 9,
+        "height": 8
+      },
+      {
+        "name": "Bedroom",
+        "x": 0,
+        "y": 21,
+        "width": 9,
+        "height": 8
+      },
+      {
+        "name": "Toilet",
+        "x": 10,
+        "y": 21,
+        "width": 4,
+        "height": 8
+      },
+      {
+        "name": "OTS Washing area",
+        "x": 15,
+        "y": 21,
+        "width": 3,
+        "height": 3
+      }
+    ],
+    "layout_version": "v2.0"
+  },
+  {
+    "prompt": " Design a compact 1BHK home layout for a plot of 28'x 30'. Include:\n   - Living Room: 10' x 10'\n   - Kitchen: 7' x 8'\n   - Bedroom: 9' x 9'\n   - Toilet: 4' x 8'\n   - O.T.S Washing area: 3' x 3'\n ",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 28.0,
+        "height": 30.0
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 10,
+        "height": 10
+      },
+      {
+        "name": "Kitchen",
+        "x": 11,
+        "y": 0,
+        "width": 7,
+        "height": 8
+      },
+      {
+        "name": "Bedroom",
+        "x": 19,
+        "y": 0,
+        "width": 9,
+        "height": 9
+      },
+      {
+        "name": "Toilet",
+        "x": 0,
+        "y": 11,
+        "width": 4,
+        "height": 6.6666666666667
+      }
+    ],
+    "layout_version": "v2.0"
+  },
+  {
+    "prompt": " Design a compact 1BHK home layout for a plot of 28'x 30'. Include:\n   - Living Room: 10' x 10'\n   - Kitchen: 7' x 8'\n   - Bedroom: 9' x 10'\n   - Toilet: 4' x 8'\n   - Washing area: 3' x 3'\n ",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 28.0,
+        "height": 30.0
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 7,
+        "height": 9
+      },
+      {
+        "name": "Kitchen",
+        "x": 8,
+        "y": 0,
+        "width": 4.5,
+        "height": 8
+      },
+      {
+        "name": "Bedroom",
+        "x": 13.5,
+        "y": 0,
+        "width": 7,
+        "height": 9
+      },
+      {
+        "name": "Toilet",
+        "x": 21.5,
+        "y": 0,
+        "width": 4.5,
+        "height": 4
+      },
+      {
+        "name": "Washing area",
+        "x": 0,
+        "y": 10,
+        "width": 7,
+        "height": 3
+      }
+    ],
+    "layout_version": "v2.0"
+  },
+  {
+    "prompt": "Design a compact 1BHK home layout for a rectangular plot of 40' x 40'.\n- Living Room: 10' x 10'\n- Kitchen: 7' x 8'\n- Bedroom: 9' x 10'\n- Toilet: 4' x 8'\n- Washing Area: 3' x 3'\n 6\" thick walls on all sides. \n\n ",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 40.0,
+        "height": 40.0
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 15,
+        "height": 20
+      },
+      {
+        "name": "Kitchen",
+        "x": 16,
+        "y": 0,
+        "width": 8,
+        "height": 9
+      },
+      {
+        "name": "Bedroom",
+        "x": 25,
+        "y": 0,
+        "width": 7,
+        "height": 20
+      },
+      {
+        "name": "Toilet",
+        "x": 33,
+        "y": 0,
+        "width": 5.5,
+        "height": 6
+      },
+      {
+        "name": "Washing Area",
+        "x": 0,
+        "y": 21,
+        "width": 3,
+        "height": 4
+      }
+    ],
+    "layout_version": "v2.0"
+  },
+  {
+    "prompt": "Design a compact 1BHK home layout for a rectangular plot of 40' x 40'.\n- Living Room: 10' x 10'\n- Kitchen: 7' x 8'\n- Bedroom: 9' x 10'\n- Toilet: 4' x 8'\n- Washing Area: 3' x 3'\n 6\" thick walls on all sides. \n\n ",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 40.0,
+        "height": 40.0
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 15,
+        "height": 20
+      },
+      {
+        "name": "Kitchen",
+        "x": 16,
+        "y": 0,
+        "width": 8,
+        "height": 20
+      },
+      {
+        "name": "Bedroom",
+        "x": 25,
+        "y": 0,
+        "width": 9,
+        "height": 20
+      },
+      {
+        "name": "Toilet",
+        "x": 0,
+        "y": 21,
+        "width": 6.5,
+        "height": 8
+      },
+      {
+        "name": "Washing Area",
+        "x": 7.5,
+        "y": 21,
+        "width": 3,
+        "height": 4
+      }
+    ],
+    "layout_version": "v2.0"
+  },
+  {
+    "prompt": "Design1BHK home layout for a plot of 40' x 40'.\n- Living Room: 10' x 10'\n- Kitchen: 7' x 8'\n- Bedroom: 10' x 10'\n- Toilet: 4' x 8'\n- Washing Area: 3' x 3'\n\n\n ",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 40.0,
+        "height": 40.0
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 7,
+        "height": 9
+      },
+      {
+        "name": "Kitchen",
+        "x": 8,
+        "y": 0,
+        "width": 6.5,
+        "height": 11
+      },
+      {
+        "name": "Bedroom",
+        "x": 15.5,
+        "y": 0,
+        "width": 9,
+        "height": 10
+      },
+      {
+        "name": "Toilet",
+        "x": 25.5,
+        "y": 0,
+        "width": 4,
+        "height": 6
+      },
+      {
+        "name": "Washing Area",
+        "x": 30.5,
+        "y": 0,
+        "width": 1.5,
+        "height": 4
+      }
+    ],
+    "layout_version": "v2.0"
+  },
+  {
+    "prompt": "Design 1BHK home layout for a plot of 30' x 30'.\n- Parking: 12' x 18'\n- Kitchen: 7' x 8'\n- Bedroom: 10' x 10'\n- Toilet: 4' x 8'\n\n ",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 30.0,
+        "height": 30.0
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 15,
+        "height": 20
+      },
+      {
+        "name": "Bedroom",
+        "x": 16,
+        "y": 0,
+        "width": 10,
+        "height": 20
+      },
+      {
+        "name": "Kitchen",
+        "x": 0,
+        "y": 21,
+        "width": 7,
+        "height": 8
+      },
+      {
+        "name": "Toilet",
+        "x": 8,
+        "y": 21,
+        "width": 4,
+        "height": 8
+      }
+    ],
+    "layout_version": "v2.0"
+  },
+  {
+    "prompt": "Design 1BHK home layout for a plot of 30' x 30'.\n- Parking: 12' x 18'\n- Kitchen: 7' x 8'\n- Bedroom: 10' x 10'\n- Toilet: 4' x 8'\n\n ",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 30.0,
+        "height": 30.0
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 15,
+        "height": 20
+      },
+      {
+        "name": "Bedroom",
+        "x": 16,
+        "y": 0,
+        "width": 10,
+        "height": 20
+      },
+      {
+        "name": "Kitchen",
+        "x": 0,
+        "y": 21,
+        "width": 7,
+        "height": 8
+      },
+      {
+        "name": "Toilet",
+        "x": 8,
+        "y": 21,
+        "width": 4,
+        "height": 8
+      }
+    ],
+    "layout_version": "v2.0"
+  },
+  {
+    "prompt": "Design 1BHK home layout for a plot of 40' x 40'.\n-  \"Parking\" : 12' x 16'\n-  \"Kitchen\" : 7' x 8'\n-  \"Bedroom\" : 10' x 10'\n- \"Toilet\": 4' x 8'\n\n ",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 40.0,
+        "height": 40.0
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 10,
+        "height": 8
+      },
+      {
+        "name": "Kitchen",
+        "x": 11,
+        "y": 0,
+        "width": 7,
+        "height": 8
+      },
+      {
+        "name": "Bedroom",
+        "x": 19,
+        "y": 0,
+        "width": 10,
+        "height": 10
+      },
+      {
+        "name": "Toilet",
+        "x": 30,
+        "y": 0,
+        "width": 2.5,
+        "height": 8
+      }
+    ],
+    "layout_version": "v2.0"
   }
 ]

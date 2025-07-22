@@ -110,6 +110,14 @@ def call_local_model(prompt, model_filename, plot_width, plot_height):
 
 # ---------------------- Plotting ----------------------
 def draw_layout(layout):
+    if vastu:
+        vastu_issues = validate_vastu(layout, plot_width, plot_height, entrance_direction)
+        if vastu_issues:
+            st.subheader("🟠 Vastu Compliance Warnings")
+            for issue in vastu_issues:
+                st.warning(f"{issue['room']} is in {issue['zone']}: {issue['reason']}")
+        else:
+            st.success("🧿 Vastu compliant ✅")
     fig = go.Figure()
     plot = next((r for r in layout if r["name"].lower() == "plot"), None)
     rooms = [r for r in layout if r["name"].lower() != "plot"]

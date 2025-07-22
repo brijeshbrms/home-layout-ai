@@ -1,6 +1,13 @@
 # vastu_zones.py
 
+
+
+def validate_vastu_compliance(layout_json: dict) -> bool:
+    # Placeholder logic
+    return True
+    # Returns True/False based on your logic
 # Define the Vastu zones and room recommendations
+
 vastu_rules = {
     "NE": {
         "allowed": ["Entrance", "Temple", "Meditation", "Porch", "Balcony", "Veranda", "Underground Water Tank"],
@@ -45,8 +52,8 @@ def get_vastu_zone(room, plot_width, plot_height):
     x = room["x"] + room["width"] / 2
     y = room["y"] + room["height"] / 2
 
-    zone_x = int((x / plot_width) * 3)  # 0 to 2
-    zone_y = int((y / plot_height) * 3)  # 0 to 2
+    zone_x = min(2, max(0, int((x / plot_width) * 3)))
+    zone_y = min(2, max(0, int((y / plot_height) * 3)))
 
     grid = [
         ["NW", "N", "NE"],
