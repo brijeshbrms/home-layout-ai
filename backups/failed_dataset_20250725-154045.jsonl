@@ -1,0 +1,1 @@
+{"prompt": "Generate a Vastu-compliant 2BHK home layout for a 25x35 feet plot. \nInclude: Living Room NE (12x14), Kitchen SE (8x10), Master Bedroom SW (13x15), Bedroom NW (10x12), Common Toilet N (6x6), and Pooja Room E (4x4). \nReturn only JSON array of rooms with name, x, y, width, height.", "reason": "Invalid plot size"}

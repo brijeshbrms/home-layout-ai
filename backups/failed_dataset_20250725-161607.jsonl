@@ -1,0 +1,1 @@
+{"prompt": "Return a JSON array of rooms for a 25'x 35' ft plot with the following:\n- Master Bedroom: 13x15 in SW\n- Bedroom: 10x12 in NW", "error": "Model returned no layout"}

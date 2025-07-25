@@ -1,0 +1,1 @@
+{"prompt": "Create a 3BHK home plan for a 30x40 ft East-facing plot.\n- Living Room: NE, 14x18 ft\n- Kitchen + Dining: SE, 10x14 ft\n- Master Bedroom: SW, 14x14 ft\n- Kids Bedroom: NW, 12x12 ft\n- Guest Room: West, 12x12 ft\n- Toilet: North, 6x7 ft\n- Include a Pooja room in East (4x4 ft)\nOnly return the room layout in JSON format.", "error": "Model returned empty response"}

@@ -931,5 +931,620 @@
       }
     ],
     "layout_version": "v2.0"
+  },
+  {
+    "prompt": "Design a 2BHK home layout for a 50x50 ft plot.\n- Living Room (14x16 ft) in NE\n- Kitchen (8x10 ft) in SE\n- Master Bedroom (13x15 ft) in SW\n- Guest Bedroom (12x12 ft) in NW\n- Toilet (6x6 ft) in North\n- Pooja Room (4x5 ft) in East",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 50,
+        "height": 50
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Kitchen",
+        "x": 15,
+        "y": 0,
+        "width": 8,
+        "height": 10
+      },
+      {
+        "name": "Master Bedroom",
+        "x": 24,
+        "y": 0,
+        "width": 13,
+        "height": 15
+      },
+      {
+        "name": "Guest Bedroom",
+        "x": 38,
+        "y": 0,
+        "width": 12,
+        "height": 12
+      },
+      {
+        "name": "Toilet",
+        "x": 0,
+        "y": 17,
+        "width": 6,
+        "height": 6
+      },
+      {
+        "name": "Pooja Room",
+        "x": 7,
+        "y": 17,
+        "width": 4,
+        "height": 5
+      }
+    ],
+    "layout_version": "v2.0"
+  },
+  {
+    "prompt": "Design a 2BHK home layout for a 50x50 ft plot.\n- Living Room (14x16 ft) in NE\n- Kitchen (8x10 ft) in SE\n- Master Bedroom (13x15 ft) in SW\n- Guest Bedroom (12x12 ft) in NW\n- Toilet (6x6 ft) in North\n- Pooja Room (4x5 ft) in East",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 50,
+        "height": 50
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Kitchen",
+        "x": 15,
+        "y": 0,
+        "width": 8,
+        "height": 10
+      },
+      {
+        "name": "Master Bedroom",
+        "x": 24,
+        "y": 0,
+        "width": 12.5,
+        "height": 15
+      },
+      {
+        "name": "Guest Bedroom",
+        "x": 37.5,
+        "y": 0,
+        "width": 11.5,
+        "height": 12
+      },
+      {
+        "name": "Toilet",
+        "x": 0,
+        "y": 17,
+        "width": 6,
+        "height": 6
+      },
+      {
+        "name": "Pooja Room",
+        "x": 7,
+        "y": 17,
+        "width": 4,
+        "height": 5
+      }
+    ],
+    "layout_version": "v2.0"
+  },
+  {
+    "prompt": "Design a 2BHK home layout for a 50x50 ft plot.\n- Living Room (14x16 ft) in NE\n- Kitchen (8x10 ft) in SE\n- Master Bedroom (13x15 ft) in SW\n- Guest Bedroom (12x12 ft) in NW\n- Toilet (6x6 ft) in North\n- Pooja Room (4x5 ft) in East",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 50,
+        "height": 50
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Kitchen",
+        "x": 15,
+        "y": 0,
+        "width": 8,
+        "height": 10
+      },
+      {
+        "name": "Master Bedroom",
+        "x": 24,
+        "y": 0,
+        "width": 13,
+        "height": 15
+      },
+      {
+        "name": "Guest Bedroom",
+        "x": 38,
+        "y": 0,
+        "width": 12,
+        "height": 12
+      },
+      {
+        "name": "Toilet",
+        "x": 0,
+        "y": 17,
+        "width": 6,
+        "height": 6
+      },
+      {
+        "name": "Pooja Room",
+        "x": 7,
+        "y": 17,
+        "width": 4,
+        "height": 5
+      }
+    ],
+    "layout_version": "v2.0"
+  },
+  {
+    "prompt": "Design a 2BHK home layout for a 50x50 ft plot.\n- Living Room (14x16 ft) in NE\n- Kitchen (8x10 ft) in SE\n- Master Bedroom (13x15 ft) in SW\n- Guest Bedroom (12x12 ft) in NW\n- Toilet (6x6 ft) in North\n- Pooja Room (4x5 ft) in East",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 50,
+        "height": 50
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 15,
+        "height": 20
+      },
+      {
+        "name": "Kitchen",
+        "x": 16,
+        "y": 0,
+        "width": 8,
+        "height": 20
+      },
+      {
+        "name": "Pooja Room",
+        "x": 25,
+        "y": 0,
+        "width": 4,
+        "height": 20
+      },
+      {
+        "name": "Master Bedroom",
+        "x": 30,
+        "y": 0,
+        "width": 13,
+        "height": 20
+      },
+      {
+        "name": "Guest Bedroom",
+        "x": 0,
+        "y": 21,
+        "width": 12,
+        "height": 20
+      },
+      {
+        "name": "Toilet",
+        "x": 13,
+        "y": 21,
+        "width": 6,
+        "height": 20
+      }
+    ],
+    "layout_version": "v2.0"
+  },
+  {
+    "prompt": "Design a 2BHK Vastu-compliant home layout for a 40x60 ft plot.\n\nRequirements:\n- Maintain 2 ft open space around all sides of the house.\n- Living Room (14x16 ft) in the Northeast\n- Kitchen (10x10 ft) in the Southeast\n- Master Bedroom (14x16 ft) in the Southwest\n- Guest Bedroom (12x12 ft) in the Northwest\n- Toilet (6x6 ft) in the North\n- Pooja Room (5x6 ft) in the East\n\nInstructions:\n- Do NOT place Kitchen in the Southwest.\n- Do NOT place Master Bedroom in the North.\n- Ensure all rooms fit inside the plot after accounting for 2 ft offset on all sides.\n- Return **only** a valid JSON array (no extra text or explanation). Format each room as:\n  { \"name\": \"Room Name\", \"x\": X, \"y\": Y, \"width\": W, \"height\": H }\n\nOnly return a JSON array like:\n[\n  { \"name\": \"Living Room\", \"x\": 0, \"y\": 0, \"width\": 14, \"height\": 16 },\n  { \"name\": \"Kitchen\", \"x\": 14, \"y\": 0, \"width\": 10, \"height\": 10 },\n  ...\n]",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 60
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Kitchen",
+        "x": 15,
+        "y": 0,
+        "width": 10,
+        "height": 10
+      }
+    ],
+    "layout_version": "v2.0",
+    "timestamp": 1753460799.289412,
+    "valid": false
+  },
+  {
+    "prompt": "Design a 2BHK Vastu-compliant home layout for a 40x60 ft plot.\n\nRequirements:\n- Maintain 2 ft open space around all sides of the house.\n- Living Room (14x16 ft) in the Northeast\n- Kitchen (10x10 ft) in the Southeast\n- Master Bedroom (14x16 ft) in the Southwest\n- Guest Bedroom (12x12 ft) in the Northwest\n- Toilet (6x6 ft) in the North\n- Pooja Room (5x6 ft) in the East\n\nInstructions:\n- Do NOT place Kitchen in the Southwest.\n- Do NOT place Master Bedroom in the North.\n- Ensure all rooms fit inside the plot after accounting for 2 ft offset on all sides.\n- Return **only** a valid JSON array (no extra text or explanation). Format each room as:\n  { \"name\": \"Room Name\", \"x\": X, \"y\": Y, \"width\": W, \"height\": H }\n\nOnly return a JSON array like:\n[\n  { \"name\": \"Living Room\", \"x\": 0, \"y\": 0, \"width\": 14, \"height\": 16 },\n  { \"name\": \"Kitchen\", \"x\": 14, \"y\": 0, \"width\": 10, \"height\": 10 },\n  ...\n]",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 60
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Kitchen",
+        "x": 15,
+        "y": 0,
+        "width": 10,
+        "height": 10
+      }
+    ],
+    "layout_version": "v2.0",
+    "timestamp": 1753460899.7380428,
+    "valid": false
+  },
+  {
+    "prompt": "Design a 2BHK home layout for a 40x60 ft plot.\n\nInclude:\n- Living Room (14x16 ft) in Northeast\n- Kitchen (10x10 ft) in Southeast\n- Master Bedroom (14x16 ft) in Southwest\n- Guest Bedroom (12x12 ft) in Northwest\n- Toilet (6x6 ft) in North\n- Pooja Room (5x6 ft) in East\n\nEnsure all rooms fit within the plot. Add 2 ft open space around the house.\nReturn only a valid JSON array like:\n[\n  { \"name\": \"Living Room\", \"x\": 0, \"y\": 0, \"width\": 14, \"height\": 16 },\n  { \"name\": \"Kitchen\", \"x\": 14, \"y\": 0, \"width\": 10, \"height\": 10 },\n  ...\n]",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 60
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Kitchen",
+        "x": 15,
+        "y": 0,
+        "width": 10,
+        "height": 10
+      }
+    ],
+    "layout_version": "v2.0",
+    "timestamp": 1753461166.135925,
+    "valid": false
+  },
+  {
+    "prompt": "Design a 2BHK home layout for a 40x60 ft plot.\n\nInclude:\n- Living Room (14x16 ft) in Northeast\n- Kitchen (10x10 ft) in Southeast\n- Master Bedroom (14x16 ft) in Southwest\n- Guest Bedroom (12x12 ft) in Northwest\n- Toilet (6x6 ft) in North\n- Pooja Room (5x6 ft) in East\n",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 60
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Kitchen",
+        "x": 15,
+        "y": 0,
+        "width": 10,
+        "height": 10
+      },
+      {
+        "name": "Master Bedroom",
+        "x": 26,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Guest Bedroom",
+        "x": 0,
+        "y": 17,
+        "width": 12,
+        "height": 12
+      }
+    ],
+    "layout_version": "v2.0",
+    "timestamp": 1753461535.468725,
+    "valid": false
+  },
+  {
+    "prompt": "Design a 2BHK home layout for a 40x60 ft plot.\n\n- Living Room (14x16 ft) in Northeast\n- Kitchen (10x10 ft) in Southeast\n- Master Bedroom (14x16 ft) in Southwest\n- Guest Bedroom (12x12 ft) in Northwest\n- Toilet (6x6 ft) in North\n- Pooja Room (5x6 ft) in East\n",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 60
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Kitchen",
+        "x": 15,
+        "y": 0,
+        "width": 10,
+        "height": 10
+      }
+    ],
+    "layout_version": "v2.0",
+    "timestamp": 1753461631.4613261,
+    "valid": false
+  },
+  {
+    "prompt": "Design a 2BHK house layout on a 40x60 ft plot.\n\nRoom placement (Vastu-compliant):\n- Living Room (14x16 ft) in NE\n- Kitchen (10x10 ft) in SE\n- Master Bedroom (14x16 ft) in SW\n- Guest Bedroom (12x12 ft) in NW\n- Toilet (6x6 ft) in North\n- Pooja Room (5x6 ft) in East\n",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 60
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Kitchen",
+        "x": 15,
+        "y": 0,
+        "width": 10,
+        "height": 10
+      }
+    ],
+    "layout_version": "v2.0",
+    "timestamp": 1753461786.6403441,
+    "valid": false
+  },
+  {
+    "prompt": "Design a 2BHK Vastu-compliant home layout for a 40x60 ft plot.\n\nInclude:\n- Living Room (14x16 ft) in the Northeast\n- Kitchen (10x10 ft) in the Southeast\n- Master Bedroom (14x16 ft) in the Southwest\n- Guest Bedroom (12x12 ft) in the Northwest\n- Toilet (6x6 ft) in the North\n- Pooja Room (5x6 ft) in the East",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 60
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Kitchen",
+        "x": 15,
+        "y": 0,
+        "width": 10,
+        "height": 10
+      },
+      {
+        "name": "Master Bedroom",
+        "x": 26,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Guest Bedroom",
+        "x": 0,
+        "y": 17,
+        "width": 12,
+        "height": 12
+      },
+      {
+        "name": "Toilet",
+        "x": 13,
+        "y": 17,
+        "width": 6,
+        "height": 6
+      },
+      {
+        "name": "Pooja Room",
+        "x": 20,
+        "y": 17,
+        "width": 5,
+        "height": 6
+      },
+      {
+        "name": "Southwest Terrace",
+        "x": 26,
+        "y": 17,
+        "width": 1,
+        "height": 1
+      }
+    ],
+    "layout_version": "v2.0",
+    "timestamp": 1753462128.6320589,
+    "valid": false
+  },
+  {
+    "prompt": "\nDesign a 2BHK Vastu-compliant home layout for a 40x60 ft plot.\n\nInclude:\n- Living Room (14x16 ft) in the Northeast\n- Kitchen (10x10 ft) in the Southeast\n- Master Bedroom (14x16 ft) in the Southwest\n- Guest Bedroom (12x12 ft) in the Northwest\n- Toilet (6x6 ft) in the North\n- Pooja Room (5x6 ft) in the East\n\n",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 60
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Kitchen",
+        "x": 15,
+        "y": 0,
+        "width": 10,
+        "height": 10
+      },
+      {
+        "name": "Master Bedroom",
+        "x": 26,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Guest Bedroom",
+        "x": 0,
+        "y": 17,
+        "width": 12,
+        "height": 12
+      },
+      {
+        "name": "Toilet",
+        "x": 13,
+        "y": 17,
+        "width": 6,
+        "height": 6
+      },
+      {
+        "name": "Pooja Room",
+        "x": 20,
+        "y": 17,
+        "width": 5,
+        "height": 6
+      }
+    ],
+    "layout_version": "v2.0",
+    "timestamp": 1753462308.338897,
+    "valid": false
+  },
+  {
+    "prompt": "\nDesign a 2BHK Vastu-compliant home layout for a 40x40 ft plot.\n\nInclude:\n- Living Room (14x16 ft) in the Northeast\n- Kitchen (10x10 ft) in the Southeast\n- Master Bedroom (14x16 ft) in the Southwest\n- Guest Bedroom (12x12 ft) in the Northwest\n- Toilet (6x6 ft) in the North\n- Pooja Room (5x6 ft) in the East\n",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Kitchen",
+        "x": 15,
+        "y": 0,
+        "width": 10,
+        "height": 10
+      },
+      {
+        "name": "Master Bedroom",
+        "x": 26,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Guest Bedroom",
+        "x": 0,
+        "y": 17,
+        "width": 12,
+        "height": 12
+      }
+    ],
+    "layout_version": "v2.0",
+    "timestamp": 1753462546.707575,
+    "valid": false
+  },
+  {
+    "prompt": "Design a 2BHK Vastu-compliant home layout for a 40x40 ft plot.\nInclude:\n- Living Room (14x16 ft) in the Northeast\n- Kitchen (10x10 ft) in the Southeast\n- Master Bedroom (14x16 ft) in the Southwest\n- Guest Bedroom (12x12 ft) in the Northwest\n- Toilet (6x6 ft) in the North\n- Pooja Room (5x6 ft) in the East\n",
+    "layout": [
+      {
+        "name": "Plot",
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      {
+        "name": "Living Room",
+        "x": 0,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Kitchen",
+        "x": 15,
+        "y": 0,
+        "width": 10,
+        "height": 10
+      },
+      {
+        "name": "Master Bedroom",
+        "x": 26,
+        "y": 0,
+        "width": 14,
+        "height": 16
+      },
+      {
+        "name": "Guest Bedroom",
+        "x": 0,
+        "y": 17,
+        "width": 12,
+        "height": 12
+      }
+    ],
+    "layout_version": "v2.0",
+    "timestamp": 1753462814.393068,
+    "valid": false
   }
 ]

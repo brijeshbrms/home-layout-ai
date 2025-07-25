@@ -1,0 +1,1 @@
+{"prompt": "Return a JSON array of rooms for a 25x35 ft plot with the following:\n\n- Living Room: 12x14 in NE\n- Kitchen: 8x10 in SE\n- Master Bedroom: 13x15 in SW\n- Bedroom: 10x12 in NW\n- Toilet: 6x6 in North\n- Pooja Room: 4x4 in East\n\nOutput only JSON array with fields: name, x, y, width, height.", "error": "Model returned empty response"}
